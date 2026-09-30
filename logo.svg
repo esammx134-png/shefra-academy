@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title description">
+  <title id="title">شيفرة أكاديمي | SHEFRA ACADEMY</title>
+  <desc id="description">شعار أكاديمية شيفرة مع رمز القفل والبرمجة</desc>
+  <defs>
+    <linearGradient id="brand-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#35a9df" />
+      <stop offset="0.52" stop-color="#397bb9" />
+      <stop offset="1" stop-color="#54258f" />
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#brand-gradient)" stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
+    <path d="m172 88-48 37 48 37" />
+    <path d="m428 88 48 37-48 37" />
+    <path d="M260 91V64a40 40 0 0 1 80 0v27" />
+    <rect x="235" y="91" width="130" height="112" rx="12" />
+    <circle cx="300" cy="135" r="15" />
+    <path d="M300 150v38" />
+  </g>
+  <text x="300" y="263" fill="#080808" font-family="Tajawal, Tahoma, Arial, sans-serif" font-size="57" font-weight="700" text-anchor="middle" direction="rtl">شيفرة أكاديمي</text>
+  <text x="300" y="316" fill="#080808" font-family="Arial, sans-serif" font-size="29" font-weight="400" letter-spacing="4" text-anchor="middle">SHEFRA ACADEMY</text>
+</svg>
